@@ -7,7 +7,7 @@
 
 body {
     display: grid;
-    background-image: url('../images/galaxy.png');
+    background-image: url('galaxy.png');
 }
 
 form {
